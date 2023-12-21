@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/J7x0Vf2h/final.jpg"  alt="your_image_description" >
+
 
 
 # LNM Institute of Information Technology (LNMIIT) - LUSIP Portal Frontend
